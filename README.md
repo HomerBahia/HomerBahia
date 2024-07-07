@@ -1,13 +1,13 @@
 [![MasterHead](https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif)
 <h1 align="center">Hi 👋, I'm Homer Bahia</h1>
-<h3 align="center">A passionate web developer and python programmer from Philippines</h3>
+<h3 align="center">A passionate Software Engineer from the Philippines</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homerbahia&label=Profile%20views&color=0e75b6&style=flat" alt="homerbahia" /> </p>
 
 - 🔭 I’m currently working on **python projects**
 
-- 🌱 I’m currently learning **Python Programming**
+- 🌱 I’m currently learning **latest technologies**
 
 - 💬 Ask me about **tech stack, and career goals**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I am funny, and collaborative. Loves to explore new things and opportunities**
 
-- I am also learning cybersecurity and data science
+- I am also learning cloud, cybersecurity and data science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
