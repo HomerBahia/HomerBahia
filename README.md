@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bahiahomerm@gmail.com**
 
-- ⚡ Fun fact **I think I am funny, and collaborative. Loves to ecplore new things and opportunities**
+- ⚡ Fun fact **I think I am funny, and collaborative. Loves to explore new things and opportunities**
 
 - I am also learning cybersecurity and data science
 
