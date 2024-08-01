@@ -13,15 +13,13 @@
 
 - 📫 How to reach me **bahiahomerm@gmail.com**
 
-- ⚡ Fun fact **I think I am funny, and collaborative. Loves to explore new things and opportunities**
-
-- I am also learning cloud, cybersecurity and data science
+- I am also learning cloud, cybersecurity and data analytics/science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/homer bahia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="homer bahia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mere" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codewithmere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewithmere" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/codewithmere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewithmer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
