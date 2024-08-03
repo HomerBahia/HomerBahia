@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **python projects**
 
-- 🌱 I’m currently learning **latest technologies**
-
-- 💬 Ask me about **tech stack, and career goals**
+- 🌱 I’m currently learning **to become a full-stack web developer**
 
 - 📫 How to reach me **bahiahomerm@gmail.com**
 
