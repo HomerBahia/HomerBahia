@@ -73,4 +73,5 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #ddd; border-radius: 10px; background-color: white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
   </a> 
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="719e79ed-0094-42ad-965a-778617923298" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
