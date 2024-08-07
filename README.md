@@ -74,3 +74,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
   </a> 
 </p>
+## Certifications
+
+[Google Project Management Professional Certificate](https://www.credly.com/badges/719e79ed-0094-42ad-965a-778617923298/public_url)
