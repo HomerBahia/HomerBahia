@@ -77,3 +77,6 @@
 ## Certifications
 
 [Google Project Management Professional Certificate](https://www.credly.com/badges/719e79ed-0094-42ad-965a-778617923298/public_url)
+
+
+[Google UX Design Professional Certificate](https://www.credly.com/badges/fe0df011-4812-4727-8120-08f9c0768194/linked_in?t=shsqbo)
