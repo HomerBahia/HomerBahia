@@ -76,6 +76,9 @@
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #ddd; border-radius: 10px; background-color: white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
   </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #ddd; border-radius: 10px; background-color: white; padding: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="microsoft azure" width="50" height="50"/> 
+</a>
 </p>
 ## Certifications
 
