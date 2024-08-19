@@ -73,6 +73,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #ddd; border-radius: 10px; background-color: white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
   </a> 
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px; border: 2px solid #ddd; border-radius: 10px; background-color: white; padding: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
+  </a>
 </p>
 ## Certifications
 
