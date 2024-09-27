@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+<img align="right" alt="coding" width="200" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homerbahia&label=Profile%20views&color=0e75b6&style=flat" alt="homerbahia" /> </p>
 
