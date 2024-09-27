@@ -1,6 +1,10 @@
 ![MasterHead](https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif)
-# Hi 👋, I'm Homer Bahia
-### A passionate Software Engineer from the Philippines
+
+<h1 align="center">Hi 👋, I'm Homer Bahia</h1>
+<h3 align="center">A passionate Software Engineer from the Philippines</h3>
+
+
+
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homerbahia&label=Profile%20views&color=0e75b6&style=flat" alt="homerbahia" /> </p>
@@ -56,6 +60,8 @@
 </p>
 
 ## Certifications
+
+<img align="right" alt="cat" width="200" src="./cat.gif" />
 
 [Google Project Management Professional Certificate](https://www.credly.com/badges/719e79ed-0094-42ad-965a-778617923298/public_url)
 
