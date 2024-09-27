@@ -5,13 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homerbahia&label=Profile%20views&color=0e75b6&style=flat" alt="homerbahia" /> </p>
 
-- 🔭 I’m currently working on **python projects**
-
-- 🌱 I’m currently learning **to become a full-stack web developer**
-
-- 📫 How to reach me **bahiahomerm@gmail.com**
-
-- I am also learning cloud, cybersecurity and data analytics/science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
